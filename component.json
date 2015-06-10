@@ -1,0 +1,6 @@
+{
+   "name": "spaconfig",
+   "version": "1.0.0",
+   "description": "spaconfig module",
+   "main": "spaconfig.js"
+}
